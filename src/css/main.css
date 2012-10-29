@@ -1,0 +1,11 @@
+@import url("common.css");
+
+.item {
+  background-color: #48fb47;
+  color: black;
+  font-weight: bold;
+}
+
+.item > span {
+	padding:5px;
+}
