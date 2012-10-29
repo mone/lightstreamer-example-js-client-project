@@ -1,6 +1,7 @@
 //NOTE there wasn't a design goal in separating the logic this way. It was made this way to show that the Lightstreamer modules
 //can be included both by the main module and by other modules
 
+//if using the non-namespaced version of the Lightstreamer library remove the "Lightstreamer/" prefix from the Subscription module name
 define(["Lightstreamer/Subscription","domReady!"],function(Subscription) {
 
   var schema = ["stock_name", "last_price"];  

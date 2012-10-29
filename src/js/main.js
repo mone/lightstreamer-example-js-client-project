@@ -1,5 +1,6 @@
 //Note, the only goal of this example is to show how to build a js application that uses Lightstreamer JS Client library using r.js 
 
+//if using the non-namespaced version of the Lightstreamer library remove the "Lightstreamer/" prefix from LightstreamerClient and StatusWidget module names
 require(["Lightstreamer/LightstreamerClient","Lightstreamer/StatusWidget","MySubscriber"], function(LightstreamerClient,StatusWidget,MySubscriber) {
   
   var lsClient = new LightstreamerClient("http://push.lightstreamer.com","DEMO");
