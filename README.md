@@ -1,6 +1,6 @@
 # Lightstreamer :: Example Project #
 
-This project shows how a project using the Lightstreamer JS client can be built using the r.js optimizer.
+This example shows how a project using the Lightstreamer JS client can be built using the r.js optimizer.
 
 The project uses RequireJS as AMD loader, its domReady! plugin, the Lightstreamer JS Client 6 library and a custom MySubscriber module.
 
