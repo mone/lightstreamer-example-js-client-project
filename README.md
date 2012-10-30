@@ -36,5 +36,5 @@ This project contains several different external resources you may want to upgra
 3. build/r.js from [r.js](https://github.com/jrburke/r.js/)
 4. src/js/require.js from [RequireJS](https://github.com/jrburke/requirejs)
 5. src/js/domReady.js from [domReady](https://github.com/requirejs/domReady)
-6  src/js/lightstreamer_namespace.js from [Lightstreamer](http://www.lightstreamer.com/) 
+6. src/js/lightstreamer_namespace.js from [Lightstreamer](http://www.lightstreamer.com/) 
 
